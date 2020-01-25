@@ -1,0 +1,6 @@
+<van-cell
+  is-link
+  title="计算机与信息学院"
+  link-type="navigateTo"
+  url="JX/JX"
+/>

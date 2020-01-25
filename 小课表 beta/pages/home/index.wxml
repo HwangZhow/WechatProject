@@ -1,0 +1,20 @@
+<view class="box1">感谢以下平台的帮助
+<view class="swiper">
+  <swiper autoplay indicator-dots circular>
+    <swiper-item><image mode="aspectFit" src="../../images/1.png"></image></swiper-item>
+    <swiper-item><image mode="aspectFit"  src="../../images/2.png"></image></swiper-item>
+    <swiper-item><image mode="aspectFit"  src="../../images/3.png"></image></swiper-item>
+    <swiper-item><image mode="aspectFit" src="../../images/4.png"></image></swiper-item>
+  </swiper>
+</view>
+</view>
+<view>
+<view class="update">
+<image style="width:35rpx;height:35rpx" src="../../icons/update.png"></image>
+<text style="margin-left:5rpx">更新内容</text>
+</view>
+<van-cell-group>
+  <van-cell title="●更新内容" value="1.20" border="{{true}}" />
+  <van-cell title="●增加更新模块" value="8.29" border="{{true}}" />
+</van-cell-group>
+</view>

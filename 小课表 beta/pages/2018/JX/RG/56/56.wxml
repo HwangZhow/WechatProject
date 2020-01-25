@@ -1,0 +1,129 @@
+<div class="div1">
+  <view class="box3" space="nbsp" style="background-Color:#e0e0e0"></view>
+  <view class="box1">MON.</view>
+  <view class="box1">TUE.</view>
+  <view class="box1">WED.</view>
+  <view class="box1">THU.</view>
+  <view class="box1">FRI.</view>
+</div>
+<!--第1~2节-->
+<div class="div1">
+  <view class="content3" style="height: 300rpx;">第 一 ~ 二 节</view>
+  <view class="content2"></view>
+  <view class="content2"></view>
+  <view class="content2">
+    <text class="subjuct">数据库\n系统原理</text>
+    <text class="name">彭义春</text>
+    <text class="content4">7A413</text>
+    <text class="content5">(W1~W15)</text>
+    <text class="content4">3B309</text>
+    <text class="content5">(W16)</text>
+  </view>
+  <view class="content2">
+    <text class="subjuct">Web\n前端技术</text>
+    <text class="name">陈强</text>
+    <text class="content4">7A406</text> 
+    <text class="content5">(W2~W16|双)</text>
+  </view>
+  <view class="content2">
+    <text class="subjuct">计算机组成原理</text>
+    <text class="name">聂华北</text>
+    <text class="content4">7A413</text> 
+    <text class="content5">(W1~W10)</text>
+    <text class="content5">(W16)</text>
+    <text class="content4">3B316</text> 
+    <text class="content5">(W11~W15)</text>
+  </view>
+</div>
+<!--第3~4节-->
+<div class="div1">
+  <view class="content3" style="height: 400rpx;">第 三 ~ 四 节</view>
+  <view class="content2">
+    <text class="subjuct">计算机\n组成原理</text>
+    <text class="name">聂华北</text>
+    <text class="content4">7A409</text>
+    <text class="content5">(W1~W16)</text>
+  </view>
+  <view class="content2">
+    <text class="subjuct">大学体育4</text>
+    <text class="name"></text>
+    <text class="content4">体育场</text>
+    <text class="content5">(W1~W16)</text>
+  </view>
+  <view class="content2">
+    <text class="subjuct">毛泽东思想和中国特色社会主义理论体系概论</text>
+    <text class="name">唐征玲</text>
+    <text class="content4">7A415</text>
+    <text class="content5">(W1~W16)</text>
+  </view>
+  <view class="content2"></view>
+  <view class="content2">
+    <text class="subjuct">数据库系统原理</text>
+    <text class="name">彭义春</text>
+    <text class="content4">7A413</text>
+    <text class="content5">(W1~W4)</text>
+    <text class="content5">(W10W12)</text>
+    <text class="content5">(W13W15)</text>
+    <text class="content4">3B309</text>
+    <text class="content5">(W5~W9)\n(W11)</text>
+    <text class="content5">(W14W16)</text>
+  </view>
+</div>
+<!--第5~6节-->
+<div class="div1">
+  <view class="content1" style="height: 400rpx;">第 五 ~ 六 节</view>
+  <view class="content2">
+    <text class="subjuct">毛泽东思想和中国特色社会主义理论体系概论</text>
+    <text class="name">唐征玲</text>
+    <text class="content4">7A415</text>
+    <text class="content5">(W1~W16)</text>
+  </view>
+  <view class="content2">
+    <text style="font-size:25rpx" class="subjuct">Web\n前端技术</text>
+    <text class="name">陈强</text>
+    <text class="content4">7A406</text>
+    <text class="content5">(W1~W2)</text>
+    <text class="content5">(W7W9)</text>
+    <text class="content5">(W14W16)</text>
+    <text class="content4">3B413</text>
+    <text class="content5">(W3~W6)</text>
+    <text class="content5">(W8W10)</text>
+    <text class="content5">(W11~W13)</text>
+    <text class="content5">(W15)</text>
+  </view>
+  <view class="content2">
+    <text class="subjuct">Linux\n系统基础</text>
+    <text class="name">孙军科</text>
+    <text class="content4">7A409</text>
+    <text class="content5">(W1~W15|单)</text>
+    <text class="content4">3B309</text>
+    <text class="content5">(W2~W16|双)</text>
+  </view>
+  <view class="content2">
+    <text class="subjuct">小型软件开发实战</text>
+    <text class="name">彭义春</text>
+    <text class="content4">3B410</text>
+    <text class="content5">(W9~W16)</text>
+  </view>
+  <view class="content2">
+    <text class="subjuct">小型软件开发实战</text>
+    <text class="name">彭义春</text>
+    <text class="content4">3B410</text>
+    <text class="content5">(W9~W16)</text>
+  </view>
+</div>
+<!--第7~8节-->
+<div class="div1">
+  <view class="content3" style="height: 300rpx;">第 七 ~ 八 节</view>
+  <view class="content2">
+    <text class="subjuct">形势与政策4</text>
+    <text class="name">罗文芳</text>
+    <text class="content4">7B406</text>
+    <text class="content5">(W12~W13)</text>
+  </view>
+  <view class="content2"></view>
+  <view class="content2"></view>
+  <view class="content2"></view>
+  <view class="content2"></view>
+</div>
+<!--第9~10节-->

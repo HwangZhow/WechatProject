@@ -1,0 +1,48 @@
+{
+  "pages": [
+    "pages/home/index",
+    "pages/about/about",
+    "pages/2018/index",
+    "pages/2018/JX/RG/56/56"
+  ],
+  "window": {
+    "backgroundTextStyle": "dark",
+    "navigationBarBackgroundColor": "#2b91ff",
+    "navigationBarTitleText": "小课表 beta",
+    "navigationBarTextStyle": "white",
+    "enablePullDownRefresh": true,
+    "pageOrientation": "auto"
+  },
+  "tabBar": {
+    "color": "#000",
+    "selectedColor": "#fff",
+    "backgroundColor": "#2b91ff",
+    "borderStyle": "white",
+    "list": [
+      {
+        "pagePath": "pages/home/index",
+        "text": "首页",
+        "iconPath": "icons/home.png",
+        "selectedIconPath": "icons/home-active.png"
+      },
+      {
+        "pagePath": "pages/2018/index",
+        "text": "2018级",
+        "iconPath": "icons/kb.png",
+        "selectedIconPath": "icons/kb-active.png"
+      },
+      {
+        "pagePath":"pages/about/about",
+        "text":"关于",
+        "iconPath":"icons/about.png",
+        "selectedIconPath":"icons/about-active.png"
+      }
+    ]
+  },
+  "networkTimeout": {
+    "request": 10000,
+    "downloadFile": 10000
+  },
+  "debug": true,
+  "sitemapLocation": "sitemap62.json"
+}

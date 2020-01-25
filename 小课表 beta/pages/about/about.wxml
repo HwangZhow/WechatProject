@@ -1,0 +1,11 @@
+<view class="content">
+  <text space="emsp">  抱着写着玩的想法写的小程序，还有很多不足的地方需要改进，期待大家的反馈。</text>
+  <text space="emsp">\n  因为之前我查课表都是要去教务系统查或者去app查，我个人觉得比较麻烦，所以就想能不能写个小程序直接在微信就可以查课表，可能还是会有一些麻烦...</text>
+  <text space="emsp">\n  然后因为我没有大家的课表，所以大部分班级的课表都是空的，如果大家有想要用这个小程序查自己课表的想法，麻烦把课表截图发我邮箱（附上院系专业班级），然后我这边补充上去。</text>
+  <text space="emsp">\n  如果对页面布局，配色，样式有什么想法的欢迎联系我！</text>
+  <text space="emsp">\n  后期的话，希望能够加入一些更多的功能供大家使用。</text>
+</view>
+<van-cell-group class="email">
+  <van-cell title="邮箱" icon="../../icons/email.png" size="large" value="hwangzau@163.com"
+  />
+</van-cell-group>

@@ -1,0 +1,8 @@
+.email{
+  position:fixed;
+  bottom:0px;
+  width:100%
+}
+.content{
+  margin: 0rpx 10rpx;
+}

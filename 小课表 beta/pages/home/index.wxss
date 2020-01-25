@@ -1,0 +1,20 @@
+swiper{
+  width:750rpx;  
+}
+
+iamge{
+  width: 750rpx;
+  height: 200rpx;
+}
+.box1{
+  text-align: center;
+  font-size: 45rpx;
+}
+.update{
+  font-weight: 22;
+  font-size: 35rpx;
+  margin-left: 15rpx;
+}
+.swiper{
+  padding-bottom: 50rpx;
+}
